@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "クローバー",
+  "base_artist": "杜野凛世 (CV.丸岡和佳奈)、大崎甘奈 (CV.黒木ほの香)、市川雛菜 (CV.岡咲美保)、七草にちか (CV.紫月杏朱彩)",
+  "createdAt": "2026-02-19T13:48:22.648708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クローバー",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/01_クローバー_yama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハーモナイズ・クローバー",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/02_ハーモナイズ・クローバー_黒崎真音.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クローバー",
+      "artist": "堀江由衣",
+      "has_synced": false,
+      "path": "select/03_クローバー_堀江由衣.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハーモナイズ･クローバー",
+      "artist": "Maon Kurosaki",
+      "has_synced": true,
+      "path": "select/04_ハーモナイズ・クローバー_Maon_Kurosaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "クローバー",
+      "artist": "The Sketchbook",
+      "has_synced": false,
+      "path": "select/05_クローバー_The_Sketchbook.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "クローバー",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/06_クローバー_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "クローバー",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/07_クローバー_坂本真綾.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "クローバー",
+      "artist": "豊崎 愛生",
+      "has_synced": true,
+      "path": "select/08_クローバー_豊崎_愛生.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "クローバー",
+      "artist": "豊崎愛生",
+      "has_synced": true,
+      "path": "select/09_クローバー_豊崎愛生.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "クローバー♣クラブ (Game Version)",
+      "artist": "ゆうゆ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/10_クローバー♣クラブ_(Game_Version)_ゆうゆ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "クローバー♣クラブ",
+      "artist": "ゆうゆ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/11_クローバー♣クラブ_ゆうゆ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "オーディナリィ・クローバー",
+      "artist": "桜守歌織(CV.香里有佐), 最上静香(CV.田所あずさ), 望月杏奈(CV.夏川椎菜), 百瀬莉緒(CV.山口立花子), 宮尾美也(CV.桐谷蝶々)",
+      "has_synced": true,
+      "path": "select/12_オーディナリィ・クローバー_桜守歌織(CV.香里有佐),_最上静香(CV.田所あずさ),_望月杏奈(CV.夏川椎菜),_百瀬莉緒(CV.山口立花子),_宮尾美也(CV.桐谷蝶々).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "クローバー",
+      "artist": "UNISON SQUARE GARDEN",
+      "has_synced": true,
+      "path": "select/13_クローバー_UNISON_SQUARE_GARDEN.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ハーモナイズ・クローバー",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/14_ハーモナイズ・クローバー_黒崎真音.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "クローバー",
+      "artist": "UNLIMITS",
+      "has_synced": false,
+      "path": "select/15_クローバー_UNLIMITS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クローバー",
+      "artist": "大崎甘奈 (CV.黒木ほの香)、杜野凛世 (CV.丸岡和佳奈)、市川雛菜 (CV.岡咲美保)、七草にちか (CV.紫月杏朱彩)",
+      "has_synced": false,
+      "path": "select/pl_01_クローバー_大崎甘奈_(CV.黒木ほの香)、杜野凛世_(CV.丸岡和佳奈)、市川雛菜_(CV.岡咲美保)、七草にちか_(CV.紫月杏朱彩).txt"
+    }
+  ]
+}
